@@ -1,7 +1,7 @@
 name: Teste Microservices
 
 on:
-  push: 
+  push:
     branches: [aula-01]
   pull_request:
     branches: [aula-01]
